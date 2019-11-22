@@ -1,7 +1,5 @@
 const file = require("fs");
 
-//push test?
-
 /**
  * Creates/Appends a file to the directory with the filename
  * @param directory - Specify the file such as "example" or "example/test"
