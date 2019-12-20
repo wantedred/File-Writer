@@ -1,6 +1,6 @@
 const file = require("fs");
 
-/** test test
+/**
  * Creates/Appends a file to the directory with the filename
  * @param directory - Specify the file such as "example" or "example/test"
  * @param filename - Specify the filename such as "filename" appends txt extension
